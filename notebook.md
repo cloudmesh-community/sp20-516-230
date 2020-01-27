@@ -7,6 +7,7 @@
 
 * Attended lecture
 * Read Cloud Computing textbook
+* Installed Python and Pycharm
 * Reviewed Python
 * Updated to Windows Pro Education
 
@@ -15,3 +16,5 @@
 * Attended lecture
 * Read Cloud Computing textbook
 * Completed survey and form
+* Watched Overview of Cloud Computing video
+* Created github and chameleoncloud accounts
