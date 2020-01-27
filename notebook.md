@@ -5,13 +5,13 @@
 
 # Week Fri 01/17/20 - 01/24/20
 
-* :+1: Attended lecture
-* :o2: Read Cloud Computing textbook
-* :o3: Reviewed Python
-* :o4: Updated to Windows Pro Education
+* Attended lecture
+* Read Cloud Computing textbook
+* Reviewed Python
+* Updated to Windows Pro Education
 
 # Week Fri 01/10/20 - 01/17/20
 
-* :+1: Attended lecture
-* :o2: Read Cloud Computing textbook
-* :o3: Completed survey and form
+* Attended lecture
+* Read Cloud Computing textbook
+* Completed survey and form
