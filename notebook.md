@@ -1,7 +1,7 @@
 # Week Fri 01/24/20 - 01/31/20
 
 * Attended lecture
-* Worked on installing multipass
+* Successfully installed multipass
 
 # Week Fri 01/17/20 - 01/24/20
 
