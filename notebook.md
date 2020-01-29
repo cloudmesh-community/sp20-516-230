@@ -3,6 +3,8 @@
 * Attended lecture
 * Successfully installed multipass
 * learned about cloudmesh-installer
+* learned how to use git from Pycharm
+
 
 # Week Fri 01/17/20 - 01/24/20
 
