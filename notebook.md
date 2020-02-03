@@ -1,13 +1,16 @@
-# Week Fri 01/24/20 - 01/31/20
+# Week Fri 01/31/20 - 02/07/20
+* Attended lecture
+* Reviewed Python
+* Created SSH key
 
+# Week Fri 01/24/20 - 01/31/20
 * Attended lecture
 * Successfully installed multipass
-* learned about cloudmesh-installer
-* learned how to use git from Pycharm
-
+* Learned about cloudmesh-installer
+* Learned how to use git from Pycharm
+* Reviewed Python
 
 # Week Fri 01/17/20 - 01/24/20
-
 * Attended lecture
 * Read Cloud Computing textbook
 * Installed Python and Pycharm
@@ -15,7 +18,6 @@
 * Updated to Windows Pro Education
 
 # Week Fri 01/10/20 - 01/17/20
-
 * Attended lecture
 * Read Cloud Computing textbook
 * Completed survey and form
