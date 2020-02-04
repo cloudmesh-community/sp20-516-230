@@ -2,6 +2,7 @@
 * Attended lecture
 * Reviewed Python
 * Created SSH key
+*Worked on datacenter assignment
 
 # Week Fri 01/24/20 - 01/31/20
 * Attended lecture
