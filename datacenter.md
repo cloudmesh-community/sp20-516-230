@@ -8,7 +8,7 @@ The data center owned by eBay located in Salt Lake City, UT has a load of 18,000
 
 Based on the carbon footprint calculator (3), I personally produce 64 tons of carbon per year, which is 5% better than average. The main category is in food due to eliminating meat and dairy from my diet, with the rest of the categories being average or slightly better than average.
 
-![](personalcarbon.PNG)
+![](personalcarbon.png)
 
 ## E.Datacenter.4
 
