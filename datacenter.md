@@ -2,7 +2,7 @@
 
 ## E.Datacenter.1
 
-The data center owned by eBay located in Salt Lake City, UT has a load of 18,000 kW (1). Using the Salt Lake City average cost of $0.08 per kWh (2), the annual cost of operating this center is approximately $12,661,704, or 12.6 tons of carbon emission. It was built in 2013. All electricity necessary to operate the data center is produced on site, making it unique.
+The data center owned by eBay located in Salt Lake City, UT has a load of 18,000 kW [@ebay-sp20-516-230]. Using the Salt Lake City average cost of $0.08 per kWh [@electriccost-sp20-516-230], the annual cost of operating this center is approximately $12,661,704, or 12.6 tons of carbon emission. It was built in 2013. All electricity necessary to operate the data center is produced on site, making it unique.
 
 ## E.Datacenter.3
 
