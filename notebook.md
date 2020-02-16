@@ -1,5 +1,17 @@
 # Notebook Ashley Thornton sp20-516-230
 
+## Week Fri 02/14/20 - 02/21/20
+* Attended lecture
+* Reviewed Python
+* Completed chapter assignment, ready for peer review
+
+## Week Fri 02/07/20 - 02/14/20
+* Attended lecture
+* Completed datacenter assignment
+* Determined direction for chapter assignment
+* Determined direction for final project
+* Reviewed Python
+
 ## Week Fri 01/31/20 - 02/07/20
 * Attended lecture
 * Reviewed Python
