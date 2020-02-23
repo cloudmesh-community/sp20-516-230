@@ -1,9 +1,16 @@
 # Notebook Ashley Thornton sp20-516-230
 
+## Week Fri 02/21/20 - 02/28/20
+* Attended lecture
+* Worked on project
+* Worked on computer issues
+
 ## Week Fri 02/14/20 - 02/21/20
 * Attended lecture
 * Reviewed Python
 * Completed chapter assignment, ready for peer review
+* Made progress on project
+* Worked with TA to fix computer issues with cms, still having issues
 
 ## Week Fri 02/07/20 - 02/14/20
 * Attended lecture
