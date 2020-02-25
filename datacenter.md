@@ -10,9 +10,9 @@ Based on the carbon footprint calculator [@coolclimate-sp20-516-230], I personal
 
 @fig:personalcarbon shows my own carbon footprint
 
-![](personalcarbon.png)
+:o2: this is wrong
 
-{#fig:personalcarbon}
+![:o2: CAPTION MISSING, :o2: BIBTEX MISSING](personalcarbon.png){#fig:personalcarbon}
 
 ## E.Datacenter.4
 
