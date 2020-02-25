@@ -14,6 +14,8 @@ Based on the carbon footprint calculator [@coolclimate-sp20-516-230], I personal
 
 ![:o2: CAPTION MISSING, :o2: BIBTEX MISSING](personalcarbon.png){#fig:personalcarbon}
 
+![Figure example [@las14cloudmeshmultiple]](images/code.png){#fig:code-example}
+
 ## E.Datacenter.4
 
 Recycling is the process of reusing materials that would normally be waste. Many people recycle within their own homes, and companies purchase recycled material. They are able to reuse the material making into products such as clothing, shoes, and other consumer goods.
