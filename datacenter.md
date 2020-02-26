@@ -1,5 +1,7 @@
 # Datacenter Ashley Thornton sp20-516-230
 
+:o2: some bibtex labels are not ok
+
 ## E.Datacenter.1
 
 The data center owned by eBay located in Salt Lake City, UT has a load of 18,000 kW [@ebay-sp20-516-230]. Using the Salt Lake City average cost of $0.08 per kWh [@electriccost-sp20-516-230], the annual cost of operating this center is approximately $12,661,704, or 12.6 tons of carbon emission. It was built in 2013. All electricity necessary to operate the data center is produced on site, making it unique.
@@ -8,7 +10,7 @@ The data center owned by eBay located in Salt Lake City, UT has a load of 18,000
 
 Based on the carbon footprint calculator [@coolclimate-sp20-516-230], I personally produce 64 tons of carbon per year, which is 5% better than average. The main category is in food due to eliminating meat and dairy from my diet, with the rest of the categories being average or slightly better than average.
 
-![Personal Carbon [@personalcarbon]](personalcarbon.png){#fig:personalcarbon}
+![Personal Carbon :o2: bad choice of label [@personalcarbon]](personalcarbon.png){#fig:personalcarbon}
 
 ## E.Datacenter.4
 
