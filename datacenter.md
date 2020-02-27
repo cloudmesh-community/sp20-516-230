@@ -1,6 +1,6 @@
 # Datacenter Ashley Thornton sp20-516-230
 
-:o2: some bibtex labels are not ok
+:o2: some bibtex labels are not ok, look in the proceedings and check
 
 ## E.Datacenter.1
 
