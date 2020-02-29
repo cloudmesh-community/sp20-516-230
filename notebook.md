@@ -4,6 +4,7 @@
 * Attended lecture
 * Worked on project
 * Worked on computer issues
+* 35 hours
 
 ## Week Fri 02/14/20 - 02/21/20
 * Attended lecture
@@ -11,6 +12,7 @@
 * Completed chapter assignment, ready for peer review
 * Made progress on project
 * Worked with TA to fix computer issues with cms, still having issues
+* 25 hours
 
 ## Week Fri 02/07/20 - 02/14/20
 * Attended lecture
@@ -18,12 +20,14 @@
 * Determined direction for chapter assignment
 * Determined direction for final project
 * Reviewed Python
+* 6 hours
 
 ## Week Fri 01/31/20 - 02/07/20
 * Attended lecture
 * Reviewed Python
 * Created SSH key
 * Worked on datacenter assignment
+* 6 hours
 
 ## Week Fri 01/24/20 - 01/31/20
 * Attended lecture
@@ -31,6 +35,7 @@
 * Learned about cloudmesh-installer
 * Learned how to use git from Pycharm
 * Reviewed Python
+* 6 hours
 
 ## Week Fri 01/17/20 - 01/24/20
 * Attended lecture
@@ -38,6 +43,7 @@
 * Installed Python and Pycharm
 * Reviewed Python
 * Updated to Windows Pro Education
+* 6 hours
 
 ## Week Fri 01/10/20 - 01/17/20
 * Attended lecture
@@ -45,3 +51,4 @@
 * Completed survey and form
 * Watched Overview of Cloud Computing video
 * Created github and chameleoncloud accounts
+* 6 hours
