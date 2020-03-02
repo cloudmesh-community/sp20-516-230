@@ -1,5 +1,9 @@
 # Notebook Ashley Thornton sp20-516-230
 
+## Week Fri 02/28/20 - 03/06/20
+* Worked on computer issues - mongo is finally working, but still do not understand how to specify a vm (receive an error when using cms flavor list command)
+* Sat 6 hr, Sun 1 hr, Mon 2 hr + project meeting
+
 ## Week Fri 02/21/20 - 02/28/20
 * Attended lecture
 * Worked on project
