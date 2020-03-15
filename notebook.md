@@ -1,8 +1,14 @@
 # Notebook Ashley Thornton sp20-516-230
 
+## Week Fri 03/20/20 - 03/27/20
+* 
+
+## Week Fri 03/13/20 - 03/20/20
+* SPRING BREAK
+
 ## Week Fri 03/06/20 - 03/13/20
-* Worked on project
-* x hours
+* Worked on project, spending most of time figuring out how to authenticate Azure
+* 12 hours
 
 ## Week Fri 02/28/20 - 03/06/20
 * Worked on computer issues - will use second computer or Chameleon Cloud due to weak processor in first computer
