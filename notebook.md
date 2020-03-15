@@ -8,7 +8,7 @@
 
 ## Week Fri 03/06/20 - 03/13/20
 * Worked on project, spending most of time figuring out how to authenticate Azure
-* Attended lecture
+* Attended lecture & 2 project meetings
 * 12 hours
 
 ## Week Fri 02/28/20 - 03/06/20
