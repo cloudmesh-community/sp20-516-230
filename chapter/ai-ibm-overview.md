@@ -18,7 +18,7 @@ IBM Cloud is a set of cloud computing services including both PaaS and IaaS
         services can be categorized by types such as Storage (object, block and file storage for cloud data), Management(tools to manage and
      monitor cloud deployments), Analytics (data science tools such as Apache
       Spark, Apache Hadoop, IBM Watson Machine Learning, and analytics
-       services for streaming data). [sp20-516-252-IBM-cloud]
+       services for streaming data)[@sp20-516-252-IBM-cloud].
 
 # AI Services on IBM Watson
 
@@ -26,7 +26,8 @@ Like said before, Watson is supported by IBM Cloud platform. It is a set of AI
  services, applications and tools that facilitate enterprises to gain insights. Watson
   aims to free customers from repetitive tasks, and allows them to focus on more
    creative and valuable tasks. Specifically, Watson automates data analysis
-    process, and uses data to build models and make predictions for businesses. [sp20-516-252-Enterprise-ready-AI]
+    process, and uses data to build models and make predictions for
+     businesses[@sp20-516-252-Enterprise-ready-AI].
     
 # IBM Watson Machine Learning
 
@@ -38,4 +39,4 @@ IBM Watson Machine Learning is one of the tools offered by Watson. It helps
   - Re-train models dynamically;
   - Generates APIs to build AI-based applications;
   - Simplify model management and deployment end-to-end with a user-friendly
-   interface. [sp20-516-252-machine-learning]
+   interface[@sp20-516-252-machine-learning].
