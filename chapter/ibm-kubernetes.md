@@ -83,5 +83,6 @@ The next web page provides instructions on how to set up CLI tools and gain
         kubectl version --short
 
  These instructions detail how to get started. If interested, one can create
-  a registry and enable continuous delivery.
+  a registry and enable continuous delivery. IBM even offers a free hour long
+   virtual consultation to help make the most out of Kubernetes.
  
