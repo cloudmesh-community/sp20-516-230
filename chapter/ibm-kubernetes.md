@@ -50,11 +50,12 @@ After logging in, one must upgrade their account to pay-as-you-go. Although
  the Kubernetes cluster we will be creating is free, the account must be
   first upgraded to access the Kubernetes service.
 
-Next, a free cluster can be created. In the IBM cloud [catalog](https://cloud
- .ibm.com/catalog), click on Kubernetes Service under Featured [@catalog-sp20
- -516-230]. This can be found towards the top left hand side of the page. From
- here, click on Free cluster and then Create. If desired, a standard cluster
- can be created instead starting at $0.11 per hour.
+Next, a free cluster can be created. In the IBM cloud catalog found 
+[here](https://cloud.ibm.com/catalog), click on Kubernetes Service under 
+Featured [@catalog-sp20-516-230]. This can be found towards the top left 
+hand side of the page. From here, click on Free cluster and then Create. 
+If desired, a standard cluster can be created instead starting at $0.11 per 
+hour.
  
 The next web page provides instructions on how to set up CLI tools and gain
  access to the new cluster.
