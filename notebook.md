@@ -1,7 +1,9 @@
 # Notebook Ashley Thornton sp20-516-230
 
 ## Week Fri 03/20/20 - 03/27/20
-* 
+* Redid chapter with concrete programming example. Changed topic to Kubernetes.
+* Attended project meeting
+* 12 hours
 
 ## Week Fri 03/13/20 - 03/20/20
 * SPRING BREAK
