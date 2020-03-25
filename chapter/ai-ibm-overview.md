@@ -45,7 +45,8 @@ enables businesses to harness AI at scale across different clouds. Key
 
 # IBM Kubernetes Service
 
-The IBM Cloud Kubernetes service is an open source, container deployment
-platform. It allows for automatic deployments, scaling, and management of
-applications. Its aim is to provide a cost-effective tool for its users
-[@sp20-516-230-kubernetes].
+The IBM Cloud Kubernetes service is an open source, highly available, container
+deployment platform. It allows for automatic deployments, scaling, and
+management of applications. Its aim is to provide a cost-effective tool for
+its users [@sp20-516-230-kubernetes]. It allows users to securely integrate
+with other IBM products.
