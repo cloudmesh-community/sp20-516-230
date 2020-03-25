@@ -12,12 +12,14 @@
 * SPRING BREAK
 
 ## Week Fri 03/06/20 - 03/13/20
-* Worked on project, spending most of time figuring out how to authenticate Azure
+* Worked on project, spending most of time figuring out how to authenticate 
+  Azure
 * Attended lecture & 2 project meetings
 * 12 hours
 
 ## Week Fri 02/28/20 - 03/06/20
-* Worked on computer issues - will use second computer or Chameleon Cloud due to weak processor in first computer
+* Worked on computer issues - will use second computer or Chameleon Cloud due to 
+  weak processor in first computer
 * Attended lecture
 * Worked on project
 * Met with professor
