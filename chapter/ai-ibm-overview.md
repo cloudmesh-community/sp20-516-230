@@ -21,6 +21,8 @@ monitor cloud deployments), Analytics (data science tools such as Apache
 Spark, Apache Hadoop, IBM Watson Machine Learning, and analytics
 services for streaming data)[@sp20-516-252-IBM-cloud].
 
+![IBM Cloud Products[@sp20-516-230-IBM-cloud-products]](image/IBM-cloud-products.png){#fig:sp20-516-230-IBM-cloud-products}
+  
 # AI Services on IBM Watson
 
 Like said before, Watson is supported by IBM Cloud platform. It is a set of AI
@@ -50,3 +52,24 @@ deployment platform. It allows for automatic deployments, scaling, and
 management of applications. Its aim is to provide a cost-effective tool for
 its users [@sp20-516-230-kubernetes]. It allows users to securely integrate
 with other IBM products.
+
+        #AT: I would rephrase and combine the last two sentences:
+        "It aims to provide a cost-effective tool for its users to securely
+         integrate with other IBM products."
+         
+        #AT: Do you think you could add a bit more details about Kubernetes
+        ? This is a overview but this one is too general.
+        
+        Like on this page (https://www.ibm.com/cloud/container-service/), I
+         found something would be nice to add here:
+         "IBM Watson and IBM Blockchain platform run on Kubernets"
+         "Highly secure environment for production workloads, including
+          isolation policies, CIS-hardened infrastructure ..."
+          
+        I was thinking maybe you could give a few bulletpoints on its
+         features. You have something like this on your chapter, could
+          you summarize those here? If a reader only reads this Overview, she
+          /he would have no idea what Kubernetes is because this part doesn't
+           include any specifics. 
+          
+       
