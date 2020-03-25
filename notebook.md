@@ -1,9 +1,12 @@
 # Notebook Ashley Thornton sp20-516-230
 
 ## Week Fri 03/20/20 - 03/27/20
+* SECOND WEEK OF UNIVERSITY WIDE SPRING BREAK; WORKED ANYWAY TO AVOID FALLING
+ BEHIND
 * Redid chapter with concrete programming example. Changed topic to Kubernetes.
 * Attended project meeting
-* 12 hours
+* Reviewed Jessica Zhu's chapter and suggested edits
+* 14 hours
 
 ## Week Fri 03/13/20 - 03/20/20
 * SPRING BREAK
