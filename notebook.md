@@ -4,13 +4,13 @@
 * SECOND WEEK OF UNIVERSITY WIDE SPRING BREAK; WORKED ANYWAY TO AVOID FALLING
   BEHIND
 * Redid chapter with concrete programming example. Changed topic to Kubernetes.
-* Attended project meeting
+* Attended 2 project meetings
 * Reviewed Jessica Zhu's chapter and suggested edits
 * Met with TA 3 times - 2 1:1s, plus Niranda's group meeting on developing
  using providers
 * Worked on authenticating Azure for the volume project, list volumes, and
  create volume
-* 19 hours
+* 22 hours
 
 ## Week Fri 03/13/20 - 03/20/20
 * SPRING BREAK
