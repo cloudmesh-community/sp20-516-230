@@ -6,7 +6,12 @@ The IBM Cloud Kubernetes service deploys highly available containers by
  creating a cluster of compute hosts. It allows users to manage the resources
   they need securely, deploying, updating, and scaling applications 
   [@kubernetescluster-sp20-516-230].
-  
+ 
+Here we can see the evolution of containers to visually understand how
+ Kubernetes is an ideal solution.
+ 
+![Container Evolution[@container_evolution]](container_evolution.png){#fig:container_evolution}
+
 ## Features
 
 * IBM Cloud Kubernetes service is fully managed at scale and enable workload
