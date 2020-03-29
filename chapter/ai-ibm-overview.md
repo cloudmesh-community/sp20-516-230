@@ -21,7 +21,7 @@ monitor cloud deployments), Analytics (data science tools such as Apache
 Spark, Apache Hadoop, IBM Watson Machine Learning, and analytics
 services for streaming data)[@sp20-516-252-IBM-cloud].
 
-![IBM Cloud Products[@sp20-516-230-IBM-cloud-products]](image/IBM-cloud-products.png){#fig:sp20-516-230-IBM-cloud-products}
+![IBM Cloud Products[@IBM-cloud-products]](images/IBM-cloud-products.png){#fig:sp20-516-230-IBM-cloud-products}
   
 # AI Services on IBM Watson
 
