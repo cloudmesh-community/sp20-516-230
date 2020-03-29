@@ -51,17 +51,11 @@ After logging in, one must upgrade their account to pay-as-you-go. Although
   first upgraded to access the Kubernetes service.
 
 Next, a free cluster can be created. In the IBM cloud catalog found 
-[here](https://cloud.ibm.com/catalog), click on Kubernetes Service under 
-Featured [@catalog-sp20-516-230]. This can be found towards the top left 
-hand side of the page. From here, click on Free cluster and then Create. 
-If desired, a standard cluster can be created instead starting at $0.11 per 
-hour.
+[here](https://cloud.ibm.com/catalog), click on *Kubernetes Service* under 
+*Featured* [@catalog-sp20-516-230]. This can be found towards the top left-hand 
+side of the page. From here, click on *Free cluster* and then *Create*. If
+ desired, a standard cluster can be created instead starting at $0.11 per hour.
     
-    #AT: change "left hand side" to "left-hand side" 
-    #AT: It would be easier to read if those tab names are highlighted or bolded
-    , e.g `Featured`
- 
- 
 The next web page provides instructions on how to set up CLI tools and gain
  access to the new cluster.
  
@@ -89,16 +83,17 @@ The next web page provides instructions on how to set up CLI tools and gain
         kubectl version --short
 
  These instructions detail how to get started. If interested, one can create
-  a registry and enable continuous delivery. IBM even offers a free hour long
+  a registry and enable continuous delivery. IBM even offers a free hour-long
    virtual consultation to help make the most out of Kubernetes.
-   
-    #AT: word: "hour-long"
-    #AT: great work overall! Just some ideas that you could consider:
-        1. Add a pics or two. Just more reading friendly than full text
-        2. Just one or more sections might be nice to be included. For
-         example, on this page (https://www.ibm.com/cloud/learn/kubernetes
-         ) "Kunernets and IBM Cloud" section discusses how Kubernets is
-          combined with IBM cloud. Red Hat OpenShift on IBM Cloud is
-            one examples of features of "IBM + Kubernets"  
-    
  
+ ## Kubernetes in Action
+ 
+ As previously mentioned, Kubernetes can easily be integrated with other IBM
+  products. One example of this is the IBM Cloud Kubernetes Service, which is
+   a managed container solution. This product automates operations and
+    deployments plus add IBM capabilities. It can bind to other services
+     include IBM blockchain and Watson.
+     
+ Another example is Red Hat OpenShift on IBM Cloud. It includes the ability
+  of using OpenShift clusters, from the Kubernetes platform, on the IBM Cloud
+   platform [@kubernetes-sp20-516-230].
