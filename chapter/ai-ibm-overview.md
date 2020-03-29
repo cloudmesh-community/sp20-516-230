@@ -49,27 +49,12 @@ enables businesses to harness AI at scale across different clouds. Key
 
 The IBM Cloud Kubernetes service is an open source, highly available, container
 deployment platform. It allows for automatic deployments, scaling, and
-management of applications. Its aim is to provide a cost-effective tool for
-its users [@sp20-516-230-kubernetes]. It allows users to securely integrate
-with other IBM products.
+management of applications. It aims to provide a cost-effective tool for its 
+users to securely integrate with other IBM products [@sp20-516-230-kubernetes].
 
-        #AT: I would rephrase and combine the last two sentences:
-        "It aims to provide a cost-effective tool for its users to securely
-         integrate with other IBM products."
-         
-        #AT: Do you think you could add a bit more details about Kubernetes
-        ? This is a overview but this one is too general.
-        
-        Like on this page (https://www.ibm.com/cloud/container-service/), I
-         found something would be nice to add here:
-         "IBM Watson and IBM Blockchain platform run on Kubernets"
-         "Highly secure environment for production workloads, including
-          isolation policies, CIS-hardened infrastructure ..."
-          
-        I was thinking maybe you could give a few bulletpoints on its
-         features. You have something like this on your chapter, could
-          you summarize those here? If a reader only reads this Overview, she
-          /he would have no idea what Kubernetes is because this part doesn't
-           include any specifics. 
-          
+Kubernetes seamlessly integrates with other IBM products, including Watson
+ and Blockchain. The environment is highly secure,  includes isolation
+  policies, and is industry compliant. The containers include a self-healing
+   element and run with transparency in mind so that users can easily
+    troubleshoot.
        
