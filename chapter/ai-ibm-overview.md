@@ -37,7 +37,7 @@ businesses[@sp20-516-252-Enterprise-ready-AI].
 IBM Watson Machine Learning is one of the tools offered by Watson. It helps
 developers and data scientists streamline machine-learning and AI deployment. It 
 enables businesses to harness AI at scale across different clouds. Key
- features include:
+ features include: 
   
   - Build and deploy models using IBM Watson Studio and open source tools;
   - Re-train models dynamically;
