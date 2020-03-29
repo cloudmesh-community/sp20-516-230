@@ -10,7 +10,7 @@ The IBM Cloud Kubernetes service deploys highly available containers by
 Here we can see the evolution of containers to visually understand how
  Kubernetes is an ideal solution.
  
-![Container Evolution[@container_evolution]](container_evolution.png){#fig:container_evolution}
+![Container Evolution[@container_evolution]](images/container_evolution.png){#fig:sp20-516-230-container_evolution}
 
 ## Features
 
