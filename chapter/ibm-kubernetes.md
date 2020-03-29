@@ -51,7 +51,7 @@ After logging in, one must upgrade their account to pay-as-you-go. Although
   first upgraded to access the Kubernetes service.
 
 Next, a free cluster can be created. In the IBM cloud catalog found 
-[here](https://cloud.ibm.com/catalog), click on *Kubernetes Service* under 
+[here](https://cloud.ibm.com/catalog), click on '*Kubernetes Service*' under 
 *Featured* [@catalog-sp20-516-230]. This can be found towards the top left-hand 
 side of the page. From here, click on *Free cluster* and then *Create*. If
  desired, a standard cluster can be created instead starting at $0.11 per hour.
