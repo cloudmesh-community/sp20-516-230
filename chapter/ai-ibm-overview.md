@@ -1,5 +1,4 @@
-# AI Services by IBM Overview
-### Ashley Thornton sp20-516-230, Jessica Zhu sp20-516-252
+# AI Services by IBM Overview Ashley Thornton sp20-516-230, Jessica Zhu sp20-516-252
 
 # IBM Cloud
 
