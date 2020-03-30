@@ -1,9 +1,5 @@
 # IBM AI Consulting Services Ashley Thornton sp20-516-230
 
-:o2: good start
-
-:o2: how can you develop from this a programming example?
-
 IBM offers a variety of AI consulting services. One of those is IBM RegTech, 
 which helps financial institutions with risk assessment and regulatory 
 monitoring. It allows companies the ability to become compliant while at the 
