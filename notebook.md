@@ -1,11 +1,19 @@
 # Notebook Ashley Thornton sp20-516-230
 
+## Week Fri 04/03/20 - 04/10/20
+* Worked on volume project, focusing on Azure provider file. Successfully
+  completed create, delete, and list.
+* x hours
+
 ## Week Fri 03/27/20 - 04/03/20
 * Worked on volume project, focusing on Azure provider file. Still getting
   errors with creating a volume/disk so trying to resolve.
+* Met with Niranda for help with Azure volume project - made on create, 
+  delete, and attach volume.
 * Incorporated peer review feedback from Jessica Zhu for IBM chapter. Chapter
   assignment is now complete.
-* 8 hours
+* Attended lecture
+* 12 hours
 
 ## Week Fri 03/20/20 - 03/27/20
 * SECOND WEEK OF UNIVERSITY WIDE SPRING BREAK; WORKED ANYWAY TO AVOID FALLING
