@@ -7,6 +7,7 @@
 ## Week Fri 04/03/20 - 04/10/20
 * Worked on volume project, focusing on Azure provider file. Successfully
   completed create, delete, list, & attach.
+* Attended group meeting plus lecture.
 * 12 hours
 
 ## Week Fri 03/27/20 - 04/03/20
