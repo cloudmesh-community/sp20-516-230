@@ -12,8 +12,8 @@
 ## Week Fri 03/27/20 - 04/03/20
 * Worked on volume project, focusing on Azure provider file. Still getting
   errors with creating a volume/disk so trying to resolve.
-* Met with Niranda for help with Azure volume project - made on create, 
-  delete, and attach volume.
+* Met with Niranda for help with Azure volume project - made progress on
+  create, delete, and attach volume.
 * Incorporated peer review feedback from Jessica Zhu for IBM chapter. Chapter
   assignment is now complete.
 * Attended lecture
