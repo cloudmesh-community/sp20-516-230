@@ -1,8 +1,11 @@
 # Notebook Ashley Thornton sp20-516-230
 
 ## Week Fri 04/10/20 - 04/17/20
-* Worked on volume project, focusing on Azure provider file. Worked on detach.
-* x hours
+* Worked on volume project, focusing on Azure provider file. Successfully got
+  detach, info, and add_tag working.
+* Cleaned up code in volume project.
+* Attended lecture & additional group meeting.
+* 12 hours
 
 ## Week Fri 04/03/20 - 04/10/20
 * Worked on volume project, focusing on Azure provider file. Successfully
