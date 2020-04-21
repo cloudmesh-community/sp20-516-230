@@ -5,7 +5,7 @@
   status working.
 * Updated read me file in volume project, adding documentation for Azure.
 * Attended lecture & additional group meeting.
-* 6 hours
+* 9.5 hours
 
 ## Week Fri 04/10/20 - 04/17/20
 * Worked on volume project, focusing on Azure provider file. Successfully got
