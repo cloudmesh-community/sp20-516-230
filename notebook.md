@@ -1,8 +1,10 @@
 # Notebook Ashley Thornton sp20-516-230
 
 ## Week Fri 04/24/20 - 05/01/20
-* Worked on volume project, focusing on Azure.
-* x hours
+* Worked on volume project, focusing on Azure. Worked on updating detach to
+  find vm name.
+* Met with Niranda for help with Azure cm vm boot error.
+* x hours, Sat 11-12, Sun 10-12, 2-x
 
 ## Week Fri 04/17/20 - 04/24/20
 * Worked on volume project, focusing on Azure provider file. Successfully got
