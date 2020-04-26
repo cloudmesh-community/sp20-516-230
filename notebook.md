@@ -11,6 +11,8 @@
 * Ran py tests on Azure and currently working through errors.
 * Updated read me file in volume project, adding documentation for Azure.
 * Attended lecture & additional group meeting.
+* Met with professor to research cloudmesh issue on my machine - it was due
+ to a capital letter being used rather than lowercase.
 * 15 hours
 
 ## Week Fri 04/10/20 - 04/17/20
