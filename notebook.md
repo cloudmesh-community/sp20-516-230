@@ -4,8 +4,9 @@
 * Worked on volume project, focusing on Azure. Updated detach to
   find vm name. All functions are working, except still an error with add_tag.
 * Met with Niranda for help with Azure cm vm boot error.
+* Ran code inspect on entire volume project and made corrections.
 * Attended lecture & additional group meeting.
-* 10 hours (Sat-Mon)
+* 13 hours
 
 ## Week Fri 04/17/20 - 04/24/20
 * Worked on volume project, focusing on Azure provider file. Successfully got
