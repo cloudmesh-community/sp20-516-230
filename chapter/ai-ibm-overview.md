@@ -1,6 +1,6 @@
 # AI Services by IBM Overview Ashley Thornton sp20-516-230, Jessica Zhu sp20-516-252
 
-# IBM Cloud
+## IBM Cloud
 
 IBM Cloud is a set of cloud computing services including both PaaS and IaaS. 
 IBM IaaS can deploy and access virtualized IT resources, such as compute
@@ -22,7 +22,7 @@ services for streaming data)[@sp20-516-252-IBM-cloud].
 
 ![IBM Cloud Products[@IBM-cloud-products]](images/IBM-cloud-products.png){#fig:sp20-516-230-IBM-cloud-products}
   
-# AI Services on IBM Watson
+## AI Services on IBM Watson
 
 Like said before, Watson is supported by IBM Cloud platform. It is a set of AI
 services, applications and tools that facilitate enterprises to gain insights. 
@@ -31,7 +31,7 @@ on more creative and valuable tasks. Specifically, Watson automates data
 analysis process, and uses data to build models and make predictions for
 businesses[@sp20-516-252-Enterprise-ready-AI].
     
-# IBM Watson Machine Learning
+## IBM Watson Machine Learning
 
 IBM Watson Machine Learning is one of the tools offered by Watson. It helps
 developers and data scientists streamline machine-learning and AI deployment. It 
@@ -44,7 +44,7 @@ enables businesses to harness AI at scale across different clouds. Key
   - Simplify model management and deployment end-to-end with a user-friendly
    interface[@sp20-516-252-machine-learning].
 
-# IBM Kubernetes Service
+## IBM Kubernetes Service
 
 The IBM Cloud Kubernetes service is an open source, highly available, container
 deployment platform. It allows for automatic deployments, scaling, and
